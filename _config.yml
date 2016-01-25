@@ -1,0 +1,28 @@
+name: Danielle DiMare
+favicon: null
+layout_spectrum: 0.1340012566652149
+typography_spectrum: 0.3707029751967639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.784029662143439
+  lightness: 0.6305500583257526
+  saturation: 0.05666408664546907
+  rhythmicContrast: 0.4487807413097471
+purpose: []
